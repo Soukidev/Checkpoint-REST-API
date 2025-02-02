@@ -1,0 +1,150 @@
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Dependency directories
+node_modules/
+jspm_packages/
+.vscode-test/
+
+# Binaries
+dist/
+build/
+out/
+*.dll
+*.exe
+*.so
+*.dylib
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDEs and editors
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+__pycache__/
+*.py[cod]
+
+# Python virtual environment
+venv/
+config/.env
+config/.env.*
+.venv/
+
+# Ruby
+*.gem
+.bundle/
+log/
+tmp/
+*.rbc
+.rspec
+coverage/
+*.pot
+public/system/
+public/uploads/
+
+# PHP
+*.cache
+*.log
+vendor/
+composer.lock
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+target/
+.idea/
+*.project
+*.classpath
+*.settings/
+*.factorypath
+
+# C++
+*.obj
+*.o
+*.out
+*.exe
+*.a
+*.lib
+*.so
+*.dll
+*.lo
+*.la
+
+# Go
+*.exe
+*.test
+*.mod
+*.sum
+
+# Flutter/Dart
+.dart_tool/
+.flutter-plugins
+.packages
+*.dart.js
+*.js.map
+.flutter-plugins-dependencies
+
+# Miscellaneous
+*.bak
+*.tmp
+*.temp
+*.orig
+*.rej
+*.class
+*.min.js
+*.map
+*.min.css
+
+# Archives
+*.tar
+*.tgz
+*.gz
+*.zip
+*.rar
+*.7z
+*.bz2
+
+# Config files
+.env.local
+.env.*.local
+.envrc
+config/.env
+config/.env.*
+
+# Markdown editors
+*.markdown-tmp
+
+# Windows thumbnail cache files
+Thumbs.db
+
+# Backup files
+*.bak
+*.swp
+*.swo
+*.tmp
+
+# Git itself
+.git/
+
+.env
